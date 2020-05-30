@@ -12,8 +12,19 @@ int main(){
 
 	cout<<x<<endl;
 
+	
+	
+	
+	
 	char y='7';	//declaring a char variable which value is 7
 			//y cannot be used for arithmetic operations
 	cout<<y<<endl;
+
+	
+
+	wchar_t z='Q';	//declaring a wchar_t variable which saves the key value in the ASCII
+			//table referring to Q
+	cout<<z<<endl;
+
 	return 0;
 }

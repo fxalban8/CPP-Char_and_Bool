@@ -26,5 +26,9 @@ int main(){
 			//table referring to Q
 	cout<<z<<endl;
 
+        //waiting for the user to press ENTER
+        cin.get();
+
+
 	return 0;
 }
